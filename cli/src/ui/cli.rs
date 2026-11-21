@@ -1,5 +1,6 @@
 use kecs::ui::UiHandler;
 
+#[allow(dead_code)]
 #[derive(Default)]
 pub struct CliUiHandler;
 
